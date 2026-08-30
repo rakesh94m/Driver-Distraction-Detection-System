@@ -1,4 +1,4 @@
-# Driver Drowsiness & Distraction Detection using Custom CNN
+﻿# Driver Drowsiness & Distraction Detection using Custom CNN
 
 A Deep Learning project that detects driver behavior from camera frames using a **Custom Convolutional Neural Network (CNN)** built from scratch in PyTorch.
 
@@ -31,7 +31,7 @@ Features:
 
 - Self-recorded driver dataset
 - Frames extracted from 1080p videos
-- Resized to **854 × 480**
+- Resized to **854 Ã— 480**
 - Stratified **70 / 15 / 15** split
 - Total classes: **5**
 
@@ -61,8 +61,8 @@ Features:
 
 ```text
 .
-├── DL_train.ipynb
-└── README.md
+â”œâ”€â”€ train.ipynb
+â””â”€â”€ README.md
 ```
 
 ## Requirements
@@ -76,6 +76,7 @@ pip install torch torchvision pandas numpy matplotlib seaborn scikit-learn tqdm 
 Open the notebook and execute all cells sequentially.
 
 ```bash
-jupyter notebook DL_train.ipynb
+jupyter notebook train.ipynb
 ```
+
 
