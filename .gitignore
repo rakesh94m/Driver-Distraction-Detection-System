@@ -1,14 +1,5 @@
-# Ignore folders
-Frames (Original_Resolution)/
-Frames_854/
+Dataset/
 Frames_854_Stratified/
-Training_Results/
-
-# Ignore models
-*.pth
-
-# Ignore other notebooks
+Frames(Original_Resolution)/
+dataset_generate.ipynb
 dataset_stratified.ipynb
-
-# Keep only this notebook
-!train.ipynb

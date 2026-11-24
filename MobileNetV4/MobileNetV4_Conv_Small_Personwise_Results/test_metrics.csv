@@ -1,0 +1,2 @@
+Model,Protocol,Accuracy,Macro Precision,Macro Recall,Macro F1
+MobileNetV4-Conv-Small,Person-wise (Person9 test),0.8316970546984572,0.851885545741381,0.8398622433355454,0.8351407865932279
